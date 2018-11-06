@@ -52,7 +52,7 @@ import Appbar from './components/Appbar/Appbar.jsx'
 class App extends Component {
   render() {
     return (
-      <Appbar></Appbar>
+      <Appbar name='黄逸鑫'></Appbar>
     )
   }
 }
